@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Containers\Autofac\AutoFacSetup.cs" />
     <Compile Include="Containers\StructureMap\SmRegistry.cs" />
     <Compile Include="Containers\StructureMap\StructureMapContainer.cs" />
     <Compile Include="Drinks\AluminumCan.cs" />
